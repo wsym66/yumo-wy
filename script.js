@@ -4,7 +4,8 @@
     "王振昊": { pwd: "20262026",     role: "vip"   },
     "于":     { pwd: "20262026",     role: "vip"   },
     "崔诚润": { pwd: "2017",         role: "vip"   },
-    "徐子喆": { pwd: "161022",       role: "vip"   }
+    "徐子喆": { pwd: "161022",       role: "vip"   }，
+    "任":     {pwd:"123456",         role:"vip"    }
   };
   const GUEST_CODE = "20206";
   const MC_URL = "https://1.mcjslink.144449.xyz/1.8.8/";
